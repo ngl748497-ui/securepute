@@ -1,0 +1,4838 @@
+[
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\f01b4d95cf55d32a.automaticDestinations-ms",
+    "calledTime": 614
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\system32\\Logfiles\\WMI\\RtBackup\\EtwRTSystemActivityMonitorSession.etl",
+    "calledTime": 346
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\Microsoft\\Windows\\CurrentVersion\\BackgroundAccessApplications",
+    "calledTime": 233
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\data_0",
+    "calledTime": 203
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\WINDOWS\\system32\\Logfiles\\WMI\\RtBackup\\EtwRTSystemActivityMonitorSession.etl",
+    "calledTime": 193
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\data_0",
+    "calledTime": 162
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\5f7b5f1e01b83767.automaticDestinations-ms",
+    "calledTime": 144
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 125
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\5f7b5f1e01b83767.automaticDestinations-ms",
+    "calledTime": 125
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\f01b4d95cf55d32a.automaticDestinations-ms",
+    "calledTime": 106
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "",
+    "calledTime": 96
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\data_1",
+    "calledTime": 68
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\data_3",
+    "calledTime": 52
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\History-journal",
+    "calledTime": 52
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Word\\~WRD2028.tmp",
+    "calledTime": 47
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Entities",
+    "calledTime": 44
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Entities",
+    "calledTime": 40
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "",
+    "calledTime": 39
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Crashpad\\settings.dat",
+    "calledTime": 29
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtDeleteKey",
+    "affectedObject": "",
+    "calledTime": 23
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Advertising",
+    "calledTime": 22
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\LocalLow\\Intel\\ShaderCache\\e7e00477bc82ef94968f91acc36799a64b1443b8dbd0e4e5260206877ba1be6c",
+    "calledTime": 21
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\fb3b0dbfee58fac8.automaticDestinations-ms",
+    "calledTime": 20
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 18
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 16
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Advertising",
+    "calledTime": 16
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Office\\Recent\\index.dat",
+    "calledTime": 16
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\5a2098e080cf7ac4.automaticDestinations-ms",
+    "calledTime": 16
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\",
+    "calledTime": 15
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\snapshotGlyph.png",
+    "calledTime": 15
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Web Data",
+    "calledTime": 13
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+    "calledTime": 13
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\mma_icons.png",
+    "calledTime": 13
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\camera.png",
+    "calledTime": 13
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\History",
+    "calledTime": 13
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\libcrypto-3.dll",
+    "calledTime": 13
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Staging",
+    "calledTime": 12
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\VSCommon\\17.0\\SQM\\PIDs\\14400",
+    "calledTime": 12
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 12
+  },
+  {
+    "processName": "ServiceHub.DataWarehouseHost",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Services\\DataWarehouseServiceModuleCore\\assemblySearchPathsConfig.json",
+    "calledTime": 12
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "REGISTRY",
+    "calledTime": 12
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\",
+    "calledTime": 11
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\Microsoft\\",
+    "calledTime": 11
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\Microsoft\\EdgeWebView\\",
+    "calledTime": 11
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\itemExpandedIcon.png",
+    "calledTime": 11
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\itemCollapsedIcon.png",
+    "calledTime": 11
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\SHCore.dll",
+    "calledTime": 10
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\.git\\HEAD",
+    "calledTime": 10
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections",
+    "calledTime": 10
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\CPUSAMPLING\\EdgeWebViews\\detailsView.manifest.json",
+    "calledTime": 9
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\ScriptResources.en.Resx",
+    "calledTime": 9
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\spacer.png",
+    "calledTime": 9
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\delete.png",
+    "calledTime": 9
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\gcGlyph.png",
+    "calledTime": 9
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\provenancesdk.dll",
+    "calledTime": 9
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\msedgewebview2.exe",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntdll.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel32.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KernelBase.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\msedge_elf.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\oleaut32.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp_win.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ucrtbase.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\combase.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rpcrt4.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcryptprimitives.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcrt.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\advapi32.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sechost.dll",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\CPSS",
+    "calledTime": 8
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\obj\\project.assets.json",
+    "calledTime": 8
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\commonextensions\\microsoft\\teamfoundation\\team explorer\\Git\\etc\\gitconfig",
+    "calledTime": 8
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Git\\etc\\gitconfig",
+    "calledTime": 8
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\.gitconfig",
+    "calledTime": 8
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\.git\\config",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\History",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Analytics",
+    "calledTime": 8
+  },
+  {
+    "processName": "gamingservices",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\XGameSaveStorage",
+    "calledTime": 8
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VSApplicationInsights\\vstelf3e86b4023cc43f0be495508d51f588a\\20251018094448_2f26b4230cf44c36904c9484d0be28cd.tmp",
+    "calledTime": 8
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Office\\Recent\\index.dat",
+    "calledTime": 8
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\fb3b0dbfee58fac8.automaticDestinations-ms",
+    "calledTime": 8
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 6960",
+    "calledTime": 7
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\msedge.dll",
+    "calledTime": 7
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\winmm.dll",
+    "calledTime": 7
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\CrashpadMetrics-active.pma",
+    "calledTime": 7
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\AggregateResults\\10.0.26200.6899",
+    "calledTime": 7
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "AllowTelemetry",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\crypt32.dll",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Login Data",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Content",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Cryptomining",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Fingerprinting",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Social",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\Other",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Analytics",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Content",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Cryptomining",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Fingerprinting",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Social",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Sigma\\Other",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\Mu\\CompatExceptions",
+    "calledTime": 6
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\DiagnosticsHub.TypeScript.Swimlanes.ScriptResources.Resx",
+    "calledTime": 6
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.System.Launcher.dll",
+    "calledTime": 6
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "MACHINE",
+    "calledTime": 6
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\SecurityManager\\CapAuthz\\HasRepaired",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Microsoft",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SecurityManager",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CapAuthz",
+    "calledTime": 6
+  },
+  {
+    "processName": "sihost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "HasRepaired",
+    "calledTime": 6
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\commonextensions\\platform\\diagnosticshub\\EdgeWebViews\\PerformanceDebuggerSwimLanesView.manifest.json",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\user32.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\win32u.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32full.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\imm32.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\BrowserMetrics\\BrowserMetrics-68F36173-1B30.pma",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\uxtheme.dll",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\DataCollection",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Login Data For Account",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Site Characteristics Database\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Extension State\\LOG",
+    "calledTime": 5
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\AggregateResults",
+    "calledTime": 5
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\obj\\x64\\Release\\net8.0\\computer_secure.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\DOTNETCOUNTERS\\EdgeWebViews\\dotNetCounters.manifest.json",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\Microsoft\\EdgeWebView\\BLBeacon\\",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Crashpad\\throttle_store.dat",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\EdgeUpdate\\ClientState\\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ole32.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel.appcore.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Microsoft",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Windows",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CurrentVersion",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\DeviceAccess",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Edition\\DevicePolicy\\AllowTelemetry",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "DevicePolicy\\AllowTelemetry",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\CrashpadMetrics-active.pma",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ws2_32.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dpapi.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\system32\\drivers\\etc\\hosts",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\000003.log",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Shared Dictionary\\db",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Safe Browsing Network\\Safe Browsing Cookies",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\Cookies",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\Reporting and NEL",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\diagnosticsHub.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\knockout-3.4.0.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\diagnosticsHub-loader.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PrivateAssemblies\\plugin.vs.v2.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PrivateAssemblies\\serviceHub.all.v2.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PrivateAssemblies\\jsonRpc.all.v2.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\diagnosticsHub-core.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\diagnosticsHub-swimlanes.js",
+    "calledTime": 4
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\Debugger\\PerfDebuggerWebViews\\icons\\AllEventsIcon.svg",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\heavy_ad_intervention_opt_out.db",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\EdgeEDrop\\EdgeEDropSQLite.db",
+    "calledTime": 4
+  },
+  {
+    "processName": "ServiceHub.RoslynCodeAnalysisService",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\obj\\x64\\Release\\net8.0\\computer_secure.dll",
+    "calledTime": 4
+  },
+  {
+    "processName": "gamingservices",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\IdentityCRL\\ClockData",
+    "calledTime": 4
+  },
+  {
+    "processName": "gamingservices",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Uploads",
+    "calledTime": 4
+  },
+  {
+    "processName": "gamingservices",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "PlayFab",
+    "calledTime": 4
+  },
+  {
+    "processName": "Notion",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\0",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\1",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\2",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\3",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\4",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\5",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\6",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\7",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\8",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors\\9",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\EndpointErrors",
+    "calledTime": 4
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\extensions_crx_cache\\metadata.json",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\Capabilities",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\EditionPolicies",
+    "calledTime": 4
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy\\ServiceInstances",
+    "calledTime": 4
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Office\\Recent\\B\u00C0I THUY\u1EBET TR\u00CCNH KHKT.docx.LNK",
+    "calledTime": 4
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\MemoryAnalyzerSwimlaneFactory.manifest.json",
+    "calledTime": 3
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\commonextensions\\platform\\diagnosticshub\\EdgeWebViews\\summaryView.manifest.json",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\USER\\S-1-5-21-3608360671-364664515-1214219193-1001\\Software\\Microsoft\\EdgeWebView\\ThirdParty\\",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\clbcatq.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Local State",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msctf.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DWrite.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cryptbase.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cfgmgr32.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0001",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Preferences",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Secure Preferences",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wldp.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\SharedStorage",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dbghelp.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\ffmpeg.dll",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\SmartScreen\\RemoteData\\customSettings",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings",
+    "calledTime": 3
+  },
+  {
+    "processName": "",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 3
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\History-journal",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\DiagnosticsHub.TypeScript.ScriptResources.Resx",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartzoom_in.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartzoom_in_disabled.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartzoom_reset.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartzoom_reset_disabled.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartselection_clear.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_chartselection_clear_disabled.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\information_blue.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\resetTimelineViewDisabled_16x.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\resetTimelineView_16x.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\toolsSettings.svg",
+    "calledTime": 3
+  },
+  {
+    "processName": "Notion",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Notion\\Partitions\\notion\\Service Worker\\CacheStorage\\614a0024a405b02cc875d3e091267a8eb895f9ee\\c0a58d0b-d310-4341-a416-13a513c1abfa\\1a04fce6b27a8e9d_0",
+    "calledTime": 3
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\PerfDebuggerWebViews\\css\\IntelliTraceGraph.css",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\TokenBroker\\Cache\\e8ddd4cbd9c0504aace6ef7a13fa20d04fd52408.tbres",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\TokenBroker\\Cache\\5a2a7058cf8d1e56c20e6b19a7c48eb2386d141b.tbres",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\EdgeJourneys\\EdgeJourneys.db",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\MEIPreload\\preloaded_data.pb",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\TrustTokenKeyCommitments\\2025.9.29.1\\keys.json",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\PKIMetadata\\28.0.0.1\\ct_config.pb",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\PKIMetadata\\28.0.0.1\\kp_pinslist.pb",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\PKIMetadata\\28.0.0.1\\crs.pb",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\CertificateRevocation\\6498.2025.9.4\\crl-set",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DIPS",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "S-1-5-19\\Software\\Microsoft\\Cryptography\\TPM\\Telemetry",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "S-1-5-19",
+    "calledTime": 3
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\StorageSense\\Parameters\\CachedSizes",
+    "calledTime": 3
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\StorageSense\\Parameters\\StoragePolicy",
+    "calledTime": 3
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Microsoft",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Windows",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CurrentVersion",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Classes",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Wow6432Node",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CLSID",
+    "calledTime": 3
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.docx\\OpenWithList",
+    "calledTime": 3
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "RecentDocs",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 3
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Word\\~WRD2028.tmp",
+    "calledTime": 3
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntmarta.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 14400",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\apphelp.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\git.exe",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntdll.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\GIT.EXE-B6A70C1F.pf",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\policymanager.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CPSS",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Store",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Policies",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "DataCollection",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KernelBase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\shlwapi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\conhost.exe",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntdll.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\CONHOST.EXE-1F3E9D7E.pf",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\netapi32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\profapi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msasn1.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Temp\\~DF5967A8E55A2BE8C3.TMP",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Variations",
+    "calledTime": 2
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Temp\\~DF6DE722877EB715CC.TMP",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KernelBase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp_win.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ucrtbase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\advapi32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcrt.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sechost.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rpcrt4.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\user32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\win32u.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32full.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\powrprof.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\umpdc.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\imm32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\shell32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\WinTypes.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\uxtheme.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\combase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\advapi32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcrt.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sechost.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rpcrt4.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\user32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\win32u.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32full.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp_win.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ucrtbase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ws2_32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\libiconv-2.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\libintl-8.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\nlansp_c.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\libpcre2-8-0.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\libwinpthread-1.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\Git\\mingw64\\bin\\zlib1.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cryptbase.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcryptprimitives.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\imm32.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Network\\Location Awareness",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\IPHLPAPI.DLL",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\nsi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dhcpcsvc6.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dhcpcsvc.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dnsapi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "git",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntmarta.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\component_crx_cache\\metadata.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Crashpad\\settings.dat",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\ShaderCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "\\REGISTRY\\MACHINE\\Software\\WOW6432Node\\Microsoft\\EdgeUpdate\\ClientStateMedium\\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\ShaderCache\\data_0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Last Version",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\ShaderCache\\data_1",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcrypt.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Vpn Tokens",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\ServerCertificate",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Sync Data\\LevelDB\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Site Characteristics Database\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Favicons",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.StateRepositoryCore.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\hyphen-data\\120.0.6050.0\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\OriginTrials\\0.0.1.7\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Domain Actions\\3.0.0.16\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Speech Recognition\\1.15.0.1\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Subresource Filter\\Unindexed Rules\\10.34.0.81\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\Trust Protection Lists\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\AutoLaunchProtocolsComponent\\1.0.0.10\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\WidevineCdm\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\TrustTokenKeyCommitments\\2025.9.29.1\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\setupapi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\PKIMetadata\\28.0.0.1\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\CertificateRevocation\\6498.2025.9.4\\manifest.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\system32\\spool\\drivers\\color\\sRGB Color Space Profile.icm",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\BookmarkMergedSurfaceOrdering",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\CoreMessaging.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\GPUCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\GPUCache\\data_0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\GPUCache\\data_1",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnWebGPUCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnWebGPUCache\\data_0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnWebGPUCache\\data_1",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnGraphiteCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnGraphiteCache\\data_0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnGraphiteCache\\data_1",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7229.pf",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DXCore.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dxgi.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\Sdch Dictionaries",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\Trust Tokens",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mfplat.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\RTWorkQ.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\WindowsApps\\microsoft.hevcvideoextension_2.4.13.0_x64__8wekyb3d8bbwe\\x64\\HEVCDECODER_STORE.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\netprofm.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ncrypt.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntasn1.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\npmproxy.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Extension State\\CURRENT",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GraphiteDawnCache\\index",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GraphiteDawnCache\\data_0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GraphiteDawnCache\\data_1",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\performanceDebuggerSwimLanesView.html",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\summaryView.html",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\SmartScreen\\RemoteData\\customSettings_F95BA787499AB4FA9EFFF472CE383A14",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\SmartScreen\\RemoteData\\edgeSettings_2.0-0",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\summaryView.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\scripts\\diagnosticsHub-summaryView.js",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\TransportSecurity",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\view.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\renderer.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\ruler.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\swimlane.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\toolbar.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\multiLineGraph.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\toolSelectionDropDownControl.css",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\Network Persistent State",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\36fbeac5-fded-4c79-aa98-aa907627b96a.tmp",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\SCT Auditing Pending Reports",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\481eaebe-5721-451d-9afe-a2f265a17593.tmp",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\Debugger\\PerfDebuggerWebViews\\icons\\ExceptionEventIcon.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\camera.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\snapshotpoint.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\memory.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\CPUSAMPLING\\EdgeWebViews\\Images\\SamplingDisabled.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\CPUSAMPLING\\EdgeWebViews\\Images\\SamplingEnabled.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_stopcollection.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\i_stopcollection_disabled.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\Images\\showOutput_16x.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\PerfDebuggerWebViews\\icons\\BreakTrackIcon.svg",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\PerfDebuggerWebViews\\PerfDebuggerSwimlane.js",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\DOTNETCOUNTERS\\EdgeWebViews\\Scripts\\dotNetCountersSwimlane.js",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Platform\\Debugger\\WebViews\\MemoryAnalyzerSwimlaneFactory.js",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\COMMON7\\IDE\\COMMONEXTENSIONS\\PLATFORM\\CPUSAMPLING\\EdgeWebViews\\Scripts\\CpuSwimlane.js",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Top Sites",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\ExtensionActivityEdge",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\PreferredApps",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\BrowsingTopicsState",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\AutoLaunchProtocolsComponent\\1.0.0.10\\protocols.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\RevisitationBloomfilter",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network Action Predictor",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\a10ed2cb-135d-49ad-bfa8-b54a3efa8830.tmp",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\BrowsingTopicsSiteData",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\tbs.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Network\\572f2231-58e6-448a-ae60-848ee057a6cd.tmp",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7229.pf",
+    "calledTime": 2
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtDeleteKey",
+    "affectedObject": "",
+    "calledTime": 2
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760200666760239000.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760200666760319300.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760265770697886200.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760265770697902800.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760283518390181500.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760288136521682000.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760288136521761000.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760375813311434100.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760458515199354700.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760458515199408800.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760543002717058600.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760543002717066700.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760606825250924600.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760626339378146000.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760626339378213500.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760629383916615200.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760629383916660900.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760709336388718900.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760709336388728300.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760718730519055100.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760719182284831000.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760750726627057200.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "warp-svc",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\ProgramData\\Cloudflare\\crash_reports\\daemon_1760750726627081800.json",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Microsoft",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Windows",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "CurrentVersion",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Diagnostics",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "DiagTrack",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "HeartBeats",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "EndpointErrors",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "0",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\AggregateResults\\10.0.26200.6899",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Executables\\GlobalPrompts",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\ConsentStore",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\MdmCommon.dll",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "PolicyApplicationState",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy\\DataStore\\Machine",
+    "calledTime": 2
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy\\DataStore\\S-1-5-21-3608360671-364664515-1214219193-1001",
+    "calledTime": 2
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Explorer",
+    "calledTime": 2
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SyncRootManager",
+    "calledTime": 2
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "{088E3905-0323-4B02-9826-5D99428E115F}",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\ApplicationAssociationToasts",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\Windows\\CurrentVersion\\Search\\JumplistData",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\RegisteredApplications",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Classes\\Local Settings\\MrtCache\\C:%5CProgram Files%5CWindowsApps%5CMicrosoft.Paint_11.2508.361.0_x64__8wekyb3d8bbwe%5Cmicrosoft.system.package.metadata%5CS-1-5-21-3608360671-364664515-1214219193-1001-MergedResources-5.pri",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Classes\\Local Settings\\MrtCache\\C:%5CProgram Files%5CWindowsApps%5CMicrosoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe%5Cmicrosoft.system.package.metadata%5CS-1-5-21-3608360671-364664515-1214219193-1001-MergedResources-1.pri",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\Zoom Workplace.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\Legacy Launcher Stable.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\OBS Studio.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\Microsoft Edge.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\Unity Hub.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\RevoltG.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\RevoltPC.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\Brave.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "taskhostw",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V01.chk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\Notion.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\Oracle VirtualBox.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\C\u1ED1c C\u1ED1c.lnk",
+    "calledTime": 2
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log",
+    "calledTime": 2
+  },
+  {
+    "processName": "",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\obj\\x64\\Release\\net8.0\\computer_secure.pdb",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 14400",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7228.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\version.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC722C.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KBDUS.DLL",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.System.Profile.PlatformDiagnosticsAndUsageDataSettings.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DiagnosticDataSettings.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\CorePrivacySettingsStore.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\userenv.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 11876",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gpapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wkscli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\netutils.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mdmregistration.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\omadmapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp110_win.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dsreg.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\5AD66A505392FF9575096294BA0AB628555B2DFE",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\7127C492E09DE17EE2923476E22C3168C97D8A58",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\B529D9F9949CDF039270DA194CB0446A39005569",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\EC2591209BCBF9411A7B2D52D1DD6DA5D9BC875F",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Variations",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\EdgeWebView\\StabilityMetrics",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\windows.storage.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.6899_none_3e0efeeae32e88c1\\comctl32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\TextInputFramework.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\SEARCHFILTERHOST.EXE-77482212.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "git",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\.git\\info\\exclude",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.UI.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wtsapi32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sspicli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\winsta.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\cde35cdd-f235-475a-bac9-48e06cef1442.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mscms.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\winhttp.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\ShaderCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\ShaderCache\\data_3",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Last Version",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\iertutil.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\srvcli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\OneCoreCommonProxyStub.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7233.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC722A.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Code Cache\\js\\index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Sync Data\\LevelDB\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Code Cache\\wasm\\index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Code Cache\\js\\index-dir\\the-real-index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Site Characteristics Database\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Code Cache\\wasm\\index-dir\\the-real-index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\twinapi.appcore.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Site Characteristics Database\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Sync Data\\LevelDB\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\EdgeWebView\\BLBeacon",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\devobj.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\5d379b1e-2a5b-4543-98e9-f59804c3fcf9.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wintrust.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7235.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Domain Actions\\3.0.0.16\\domain_actions.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\vcruntime140.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cryptsp.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rsaenh.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DataExchange.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\InputHost.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\atlthunk.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\oleacc.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\GPUCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\GPUCache\\data_3",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\directmanipulation.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnWebGPUCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnWebGPUCache\\data_3",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcrypt.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnGraphiteCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\DawnGraphiteCache\\data_3",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Sync Data\\LevelDB\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Site Characteristics Database\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\metadata\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\shared_proto_db\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ResourcePolicyClient.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\directxdatabasehelper.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Shared Dictionary\\cache\\index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mf.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "StandardCollector.Service",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wevtapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mswsock.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\d3dcompiler_47.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rasadhlp.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\libGLESv2.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\libEGL.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dwmapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\d3d11.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dcomp.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Microsoft.Internal.WarpPal.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igd10iumd64.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igd10um64gen11.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igdgmm64.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igc64.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\LocalLow\\Intel\\ShaderCache\\e7e00477bc82ef94968f91acc36799a64b1443b8dbd0e4e5260206877ba1be6c",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Extension State\\MANIFEST-000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Extension State\\000003.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\LocalLow\\Intel\\ShaderCache\\59583e749abecd65c61a0c28fdcfa69eda17fe9582eaddaf00182abc4d933038",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\vk_swiftshader.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igd11dxva64.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_4e41a1e74551d4db\\igdinfo64.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GraphiteDawnCache\\data_2",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GraphiteDawnCache\\data_3",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\GrShaderCache\\f_000001",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.21\\System.Runtime.CompilerServices.Unsafe.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "devenv",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.21\\System.Runtime.CompilerServices.Unsafe.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 1276",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\program files\\microsoft visual studio\\2022\\community\\common7\\ide\\CommonExtensions\\Platform\\DiagnosticsHub\\EdgeWebViews\\css\\scrollbar.css",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Policies\\Microsoft\\Windows\\DataCollection",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.RoslynCodeAnalysisService",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VSApplicationInsights\\vstelf3e86b4023cc43f0be495508d51f588a\\20251018094421_bf9d7f8326cf446dac9a9702e4ae39da.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Local Storage\\leveldb\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\Extension State\\LOG",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\bin\\x64\\Prediction\\env\\venv\\Lib\\site-packages\\tensorboard\\plugins\\histogram\\.git",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\OBS-FFMPEG-MUX.EXE-8BFCA4B6.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\telclient.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\ExtensionActivityComp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\vaultcli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.85\\oneds.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\propsys.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\C\u1ED1c C\u1ED1c.lnk",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\OneDrive\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.Web.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.FileExplorer.Common.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\linkinfo.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Music\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\TenantRestrictionsPlugin.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Downloads\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Breadcrumbs",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Pictures\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Searches\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Contacts\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Favorites\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Videos\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Documents\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Links\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Saved Games\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\favorites_diagnostic.log",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.Storage.Search.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\File Explorer.lnk",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Breadcrumbs",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\UserMgrProxy.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\StructuredQuery.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\icu.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\usermgrcli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\networkexplorer.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.StateRepositoryPS.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.StateRepositoryClient.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cldapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\mssprxy.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\PCPKsp.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ncryptprov.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.RoslynCodeAnalysisService",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\obj\\x64\\Release\\net8.0\\computer_secure.pdb",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\COMPUTER_SECURE.EXE-27C06D01.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\613f4dc3-607b-4ba4-9619-7c4691c0103c.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC722C.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\585e7c58-0818-40fe-8e19-f36469793731.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\source\\repos\\computer_secure\\computer_secure\\bin\\x64\\Prediction\\env\\venv\\Lib\\site-packages\\tensorflow\\include\\external\\stablehlo\\_virtual_includes\\chlo_attrs_inc_gen\\stablehlo\\dialect\\.git",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\047172c0-aeda-412b-bd01-ceca26f76d8e.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\e18e2c3e-8b30-4814-98c0-10e8fb709321.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC722A.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7235.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\History-journal",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\CloudStore",
+    "calledTime": 1
+  },
+  {
+    "processName": "conhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ole32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\AppResolver.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\userenv.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\BCP47Langs.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\CryptoWinRT.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "16.0\\Common\\ClientTelemetry\\RulesMetadata\\officeclicktorun.exe",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "16.0\\Common\\ClientTelemetry\\RulesMetadata\\officeclicktorun.exe\\ULSMonitor",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "16.0",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Common",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "ClientTelemetry",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "RulesMetadata",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "officeclicktorun.exe",
+    "calledTime": 1
+  },
+  {
+    "processName": "OfficeClickToRun",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "ULSMonitor",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.IdentityHost",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.RoslynCodeAnalysisService",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.IndexingService",
+    "syscallName": "NtSetValueKey",
+    "affectedObject": "",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\TestResults",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wevtapi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\Default",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack\\HeartBeats\\Aria",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Diagnostics\\DiagTrack",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\AggregateResults",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.System.UserProfile.DiagnosticsSettings.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7236.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\TpmCoreProvisioning.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\MSEDGEWEBVIEW2.EXE-50FC7236.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "SearchHost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SYSTEM\\Software\\Microsoft\\TIP\\AggregateResults",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.RoslynCodeAnalysisService",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VSApplicationInsights\\vstelf3e86b4023cc43f0be495508d51f588a\\20251018094451_25b16c7832ec45c18e37d352974be65c.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\secur32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "ServiceHub.DataWarehouseHost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VSApplicationInsights\\vstelf3e86b4023cc43f0be495508d51f588a\\20251018094458_ef69531a670b480e9db24cc88836f39b.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.Devices.Enumeration.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DDORes.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\DefaultDeviceManager.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\93dd7302-a694-478a-9b41-1557ca5398ee.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\0\\StructuredQuerySchema.bin",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\Default\\dccfba6c-740a-4e65-be3b-f3b23af9dc31.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\VFUProvider",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 896",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\svchost.exe",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntdll.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\SVCHOST.EXE-4FD26609.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KernelBase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ucrtbase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\combase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rpcrt4.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel.appcore.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcrt.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcryptprimitives.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\user32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\win32u.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32full.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp_win.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sechost.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gpsvc.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dsrole.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\oleaut32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sysntfy.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "GPStartup",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\wtsapi32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\crypt32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sspicli.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\winsta.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\umpdc.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rmclient.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "bd83ccc3-9dfe-441e-a040-9881ccfd6988",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\samlib.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Downloads\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\provenancesdk.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "{374DE290-123F-4565-9164-39C4925E467B}",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Downloads\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\libcrypto-3.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": ".docx\\OpenWithProgids",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": ".docx",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\B\u00C0I THUY\u1EBET TR\u00CCNH KHKT.docx.lnk",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Folder",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Downloads (2).lnk",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Desktop\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Public\\Desktop\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Diagnostics",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{582863CD-4F16-4A9C-88C1-890D2BDB5985}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Music\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{AD35D8FF-EDCF-44E0-9775-3C6F3A110D89}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{A74F1694-DF63-4CDE-9B45-3606D8E78CFC}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{BD50269A-0088-4DE3-B604-B083BF1EB5FB}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Pictures\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{99C12D15-A59D-4717-9441-6E9AD9C97774}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{FA41323B-5502-49CB-9EEC-0D4D5744CC77}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Videos\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{190A642C-8D5F-4482-B1E5-5739C6B9702D}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{772C9D0D-C36B-40B1-A127-9A2048DC69E0}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Documents\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{638E420A-21BB-4AD3-BD36-44D6AD62B29F}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{1EA2FBE2-B31D-467B-BEB2-69DF9C1CEA2E}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{4D0D7988-7384-404C-8631-C8533886C6F7}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\OneDrive\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{8CFA01BB-3CB7-49FC-9393-2EB520EB80AE}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtCreateKey",
+    "affectedObject": "Software\\Microsoft\\OneDrive\\Accounts",
+    "calledTime": 1
+  },
+  {
+    "processName": "explorer",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\Pictures\\Screenshots\\desktop.ini",
+    "calledTime": 1
+  },
+  {
+    "processName": "WINWORD",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Word\\AutoRecovery save of B\u00C0I THUY\u1EBET TR\u00CCNH KHKT.asd",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Word\\B\u00C0I%20THUY\u1EBET%20TR\u00CCNH%20KHKT312115300612142250\\B\u00C0I%20THUY\u1EBET%20TR\u00CCNH%20KHKT((Autorecovered-312115982443120992)).asd",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "NtCreateProcess",
+    "affectedObject": "Parent PID: 1192",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dllhost.exe",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ntdll.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "NtReadFile",
+    "affectedObject": "C:\\WINDOWS\\Prefetch\\DLLHOST.EXE-9037274D.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\KernelBase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\ucrtbase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\combase.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\rpcrt4.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\kernel.appcore.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcrt.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\bcryptprimitives.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\clbcatq.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\sechost.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\user32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\win32u.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\gdi32full.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\msvcp_win.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\imm32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\uxtheme.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\thumbcache.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "dllhost",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\propsys.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Roaming\\Microsoft\\Office\\Recent\\B\u00C0I THUY\u1EBET TR\u00CCNH KHKT.docx.LNK",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{582863CD-4F16-4A9C-88C1-890D2BDB5985}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "System",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\~WRS{BD50269A-0088-4DE3-B604-B083BF1EB5FB}.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\SVCHOST.EXE-4FD26609.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "svchost",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Windows\\Prefetch\\DLLHOST.EXE-9037274D.pf",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\Windows.System.Diagnostics.Telemetry.PlatformTelemetryClient.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "msedgewebview2",
+    "syscallName": "NtWriteFile",
+    "affectedObject": "C:\\Users\\Nguyen Duc Bao Lam\\AppData\\Local\\Microsoft\\VisualStudio\\WebView2Cache\\0000\\EBWebView\\373b52e6-302b-4973-afcd-6bb8deb77289.tmp",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.21\\Microsoft.Win32.Registry.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.21\\System.Memory.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\EtwRundown.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\IPHLPAPI.DLL",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\devobj.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\cfgmgr32.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\nsi.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dhcpcsvc6.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dhcpcsvc.dll",
+    "calledTime": 1
+  },
+  {
+    "processName": "computer_secure",
+    "syscallName": "LdrLoadDll",
+    "affectedObject": "C:\\Windows\\System32\\dnsapi.dll",
+    "calledTime": 1
+  }
+]

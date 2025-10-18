@@ -1,0 +1,104 @@
+[
+    {
+        "process": "svchost",
+        "prediction": "adware",
+        "confidence": "1.0000",
+        "trace_count": 138
+    },
+    {
+        "process": "browser",
+        "prediction": "benign",
+        "confidence": "0.1748",
+        "trace_count": 355
+    },
+    {
+        "process": "msedge",
+        "prediction": "benign",
+        "confidence": "0.2259",
+        "trace_count": 155
+    },
+    {
+        "process": "sihost",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 7
+    },
+    {
+        "process": "System",
+        "prediction": "benign",
+        "confidence": "0.1988",
+        "trace_count": 61
+    },
+    {
+        "process": "Code",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 9
+    },
+    {
+        "process": "devenv",
+        "prediction": "benign",
+        "confidence": "0.1989",
+        "trace_count": 23
+    },
+    {
+        "process": "gamingservices",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 6
+    },
+    {
+        "process": "msedgewebview2",
+        "prediction": "benign",
+        "confidence": "0.2025",
+        "trace_count": 191
+    },
+    {
+        "process": "warp-svc",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 19
+    },
+    {
+        "process": "PerfWatson2",
+        "prediction": "benign",
+        "confidence": "0.1998",
+        "trace_count": 11
+    },
+    {
+        "process": "MsMpEng",
+        "prediction": "benign",
+        "confidence": "0.2004",
+        "trace_count": 88
+    },
+    {
+        "process": "OfficeClickToRun",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 10
+    },
+    {
+        "process": "MpDefenderCoreService",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 6
+    },
+    {
+        "process": "computer_secure",
+        "prediction": "benign",
+        "confidence": "0.2006",
+        "trace_count": 19
+    },
+    {
+        "process": "SearchProtocolHost",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 33
+    },
+    {
+        "process": "AggregatorHost",
+        "prediction": "benign",
+        "confidence": "0.1993",
+        "trace_count": 12
+    }
+]
