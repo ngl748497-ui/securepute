@@ -97,6 +97,7 @@ class Program
                 Console.WriteLine($"process: {entry.Key}, {processScore[entry.Key]}, {entry.Value.Item1}, ensure rate {entry.Value.Item2}");
             }
         }
-
+        Console.WriteLine("Press any key to stop the execution...");
+        Console.ReadKey();
     }
 }
