@@ -32,7 +32,7 @@ class TraceMain
         [JsonPropertyName("calledTime")]
         public int CalledTime { get; set; }
     }
-    private const string OutputFileName = "trace_result.json";
+    private const string OutputFileName = "trace_source/trace_result.json";
     private static readonly Dictionary<EventKey, int> _eventCounts = new();
     private static readonly object _lock = new();
 
