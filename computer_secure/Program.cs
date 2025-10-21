@@ -1,4 +1,4 @@
-﻿using computer_secure.EventTracing;
+using computer_secure.EventTracing;
 using computer_secure.Scoring;
 using Microsoft.Diagnostics.Tracing;
 using Microsoft.Diagnostics.Tracing.Parsers;
@@ -7,7 +7,11 @@ using Microsoft.Diagnostics.Tracing.Session;
 using Microsoft.Diagnostics.Utilities;
 using Microsoft.Windows.EventTracing.Disk;
 using System;
+using System.ComponentModel;
+using System.Diagnostics;
 using System.Net; 
+using System.Security.AccessControl;
+using System.Security.Principal;
 using System.Text.Json;
 using static computer_secure.EventTracing.TraceMain;
 namespace computer_secure;
@@ -31,6 +35,47 @@ class Program
         public string prediction { get; set; } = string.Empty;
         public string confidence { get; set; } = string.Empty;
     }
+
+    public static bool isMalicious(int score, float rate, string prediction)
+    {
+        if (score > 8) return true;
+        else if (score > 5 && prediction != "benign" && rate >= 0.5) return true;
+        else if (score <= 5 && prediction != "benign" && rate >= 0.85) return true;
+        else return false;
+    }
+    public static void QuarantineProcess(string processName)
+    {
+        // Vòng lặp sẽ tự động không chạy nếu không tìm thấy tiến trình nào.
+        foreach (var process in Process.GetProcessesByName(processName))
+        {
+            try
+            {
+                // Lấy đường dẫn file TRƯỚC khi dừng
+                string filePath = process.MainModule.FileName;
+
+                // Dừng tiến trình
+                process.Kill();
+
+                // Đặt quyền Deny để cách ly file
+                FileInfo fileInfo = new FileInfo(filePath);
+                FileSecurity fileSecurity = fileInfo.GetAccessControl();
+                var denyRule = new FileSystemAccessRule(
+                    new SecurityIdentifier(WellKnownSidType.BuiltinUsersSid, null),
+                    FileSystemRights.FullControl,
+                    AccessControlType.Deny
+                );
+                fileSecurity.AddAccessRule(denyRule);
+                fileInfo.SetAccessControl(fileSecurity);
+
+                Console.WriteLine($"Sucessfully quarantined: {processName}");
+            }
+            catch (Exception ex)
+            {
+                // Chỉ thông báo nếu có lỗi xảy ra trong quá trình cách ly
+                Console.WriteLine($"Err when attempting to quarantine {processName}: {ex.Message}");
+            }
+        }
+    }
     public static void Main(string[] args)
     {
 
@@ -50,7 +95,7 @@ class Program
         string prediction_output = File.ReadAllText("trace_source/prediction_output.json");
         var traceEntries = JsonSerializer.Deserialize<List<TraceOutput>>(jsonString);
         var predictionEntries = JsonSerializer.Deserialize<List<AIPrediction>>(prediction_output);
-        
+        string[] systemProcess = ["MsMpEng", "System", "csrss", "wininit", "winlogon", "services", "lsass", "svchost", "explorer", "svchost", "dwm"];
         if (traceEntries != null)
 
         {
@@ -63,7 +108,7 @@ class Program
                     processScore[entry.ProcessName] = 0;
 
 
-                    Console.WriteLine(entry.ProcessName + ": " + score);
+                    //Console.WriteLine(entry.ProcessName + ": " + score);
                     if (processScore.TryGetValue(entry.ProcessName, out int scores) == false)
                     {
                         processScore.Add(entry.ProcessName, score);
@@ -94,10 +139,27 @@ class Program
         {
             if (processScore.ContainsKey(entry.Key))
             {
+
                 Console.WriteLine($"process: {entry.Key}, {processScore[entry.Key]}, {entry.Value.Item1}, ensure rate {entry.Value.Item2}");
+                if (isMalicious(processScore[entry.Key], entry.Value.Item2, entry.Value.Item1) && !systemProcess.Contains(entry.Key, StringComparer.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine($"Quarantine process {entry.Key}?");
+                    ConsoleKeyInfo rkey = Console.ReadKey(true);
+                    char key = Char.ToLower(rkey.KeyChar);
+                    if (key=='y')
+                    {
+                        QuarantineProcess(entry.Key);
+                        Console.WriteLine("Quarantined process");
+                    }
+                    else
+                    {
+                        Console.WriteLine("aborted.");
+                    }
+                    //QuarantineProcess(entry.Key);
+                    
+                }
             }
         }
-        Console.WriteLine("Press any key to stop the execution...");
         Console.ReadKey();
     }
 }
