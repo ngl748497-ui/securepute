@@ -1,4 +1,6 @@
-﻿using PeNet;
+//CHÚ Ý FILE CODE NÀY ĐỂ LÀM BÁO CÁO
+
+using PeNet;
 using System;
 using System.Collections.Generic;
 using System.IO;
