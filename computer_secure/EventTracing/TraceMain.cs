@@ -1,4 +1,6 @@
-﻿using computer_secure.EventTracing;
+//CODE QUAN TRỌNG
+
+using computer_secure.EventTracing;
 using Microsoft.Diagnostics.Tracing;
 using Microsoft.Diagnostics.Tracing.Parsers;
 using Microsoft.Diagnostics.Tracing.Parsers.Kernel;
