@@ -1,3 +1,5 @@
+//CODE QUAN TRỌNG
+
 using computer_secure.EventTracing;
 using computer_secure.Scoring;
 using Microsoft.Diagnostics.Tracing;
