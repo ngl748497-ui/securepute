@@ -1,4 +1,5 @@
-Branch Server của dự án
+Branch Server của dự án. Branch này là 1 phiên bản được chỉnh sửa của CAPE Sandbox V2 và đi kèm với hướng dẫn thiết lập. 
+(dự kiến add Makefile để tự động hóa và một đoạn configure tự động, branch Main cũng thiết lập một Makefile để configure đoạn này.)
 
 Code huấn luyện AI: https://drive.google.com/file/d/1RnLOrCia9ikJaOPgmvXAqIS4nR8_HYrx/view?usp=sharing
 
